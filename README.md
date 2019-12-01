@@ -9,6 +9,7 @@ Write a script which will
 
 ## SYNOPSIS
 
+```
 ./words.sh command
 
 COMMANDS
@@ -25,3 +26,4 @@ count
     print the number of words, number of
     distinct words and ten most common words
     appeared in the 'words' file.
+```
